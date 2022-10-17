@@ -1,0 +1,14 @@
+D:\CNPM\Quan ly cua hang TH True Mart\bin\Debug\Quan ly cua hang TH True Mart.exe.config
+D:\CNPM\Quan ly cua hang TH True Mart\bin\Debug\Quan ly cua hang TH True Mart.exe
+D:\CNPM\Quan ly cua hang TH True Mart\bin\Debug\Quan ly cua hang TH True Mart.pdb
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmDangnhap.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmHethong.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmMaQLNV.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmQLHD.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmQLNV.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.frmQLSP.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan_ly_cua_hang_TH_True_Mart.Properties.Resources.resources
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan ly cua hang TH True Mart.csproj.GenerateResource.cache
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan ly cua hang TH True Mart.csproj.CoreCompileInputs.cache
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan ly cua hang TH True Mart.exe
+D:\CNPM\Quan ly cua hang TH True Mart\obj\Debug\Quan ly cua hang TH True Mart.pdb
